@@ -1,8 +1,9 @@
 # AI-ML-Titanic_Data_cleaning
-Titanic Survival Prediction
+#Titanic Survival Prediction
 This project analyzes the Titanic dataset to predict passenger survival using data analysis and machine learning techniques.
 
-📂 Dataset
+#📂 Dataset
+
 The dataset used is the Titanic Dataset, which contains data for 891 passengers with the following features:
 
 PassengerId
@@ -29,12 +30,13 @@ Cabin
 
 Embarked
 
-📊 Libraries Used
+#📊 Libraries Used
 pandas, numpy: Data manipulation and analysis
 
 matplotlib, seaborn: Data visualization
 
 sklearn: Preprocessing, modeling, and evaluation
+
 
 🚀 Steps Covered
 Data Loading & Cleaning:
@@ -57,7 +59,7 @@ Evaluation:
 
 Evaluated model accuracy, confusion matrix, etc.
 
-📁 How to Run
+#📁 How to Run
 Clone the repo:
 
 bash
@@ -70,7 +72,7 @@ Open Titanic.ipynb in Jupyter Notebook or any compatible environment.
 
 Run all cells sequentially.
 
-📌 Notes
+#📌 Notes
 The project is a beginner-friendly application of data science and ML on a popular dataset.
 
 Useful for practicing preprocessing, EDA, and basic modeling techniques.

@@ -1,4 +1,4 @@
-# AI-ML-Titanic_Data_cleaning
+# AI-ML-Titanic_Data_cleaning_preprocessing
 #Titanic Survival Prediction
 This project analyzes the Titanic dataset to predict passenger survival using data analysis and machine learning techniques.
 
